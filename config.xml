@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.helloworld" version="1.0.0">
   <name>GIO</name>
   <description>Google IO Event Stream.</description>
-  <author href="http://phonegap.com" email="lakkakula.rajesh@gmail.com">Rajesh Lakkakula</author>
+  <author href="http://phonegap.com" email="lakkakula.rajesh@yahoo.com">Rajesh Lakkakula</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
